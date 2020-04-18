@@ -6,4 +6,9 @@ module.exports = {
   // static: {
   //   enable: true,
   // }
+
+  senecaGateway: {
+    enable: true,
+    package: 'egg-seneca-gateway',
+  },
 };
